@@ -1,1 +1,1 @@
-#Implementation of simple shell project by Precious Jacob and Esther Adejola
+# Implementation of simple shell project by Precious Jacob and Esther Adejola
